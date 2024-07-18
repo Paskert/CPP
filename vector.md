@@ -1,1 +1,1 @@
-  vector<int> arryname(size,value); 
+    vector<int> arryname(size,value); 
